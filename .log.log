@@ -1,0 +1,108 @@
+error : May-09-2022 19:16:38 : undefined
+error : May-09-2022 19:18:09 : undefined
+error : May-09-2022 19:19:21 : user validation failed: email: you must insert!, required
+error : May-09-2022 19:34:29 : undefined
+error : May-09-2022 19:35:10 : undefined
+error : May-09-2022 19:35:13 : user validation failed: email: please insert valid email
+error : May-09-2022 19:37:14 : E11000 duplicate key error collection: 212410773_Sagit-db.users index: email_1 dup key: { : "fd@nn.mm" }
+error : May-09-2022 19:37:15 : E11000 duplicate key error collection: 212410773_Sagit-db.users index: email_1 dup key: { : "fd@nn.mm" }
+error : May-09-2022 20:29:31 : user validation failed: email: you must insert!, required
+error : May-11-2022 11:00:57 : undefined
+error : May-11-2022 12:12:58 : undefined
+error : May-11-2022 12:36:09 : undefined
+error : May-11-2022 12:52:12 : undefined
+error : May-11-2022 12:52:25 : undefined
+error : May-11-2022 12:52:37 : undefined
+error : May-11-2022 12:53:09 : undefined
+error : May-11-2022 12:53:25 : undefined
+error : May-11-2022 12:55:10 : undefined
+error : May-11-2022 12:59:12 : undefined
+error : May-11-2022 13:00:41 : undefined
+error : May-11-2022 13:01:55 : undefined
+error : May-25-2022 14:01:20 : Operation `users.insertOne()` buffering timed out after 10000ms
+error : May-25-2022 19:36:57 : Unexpected token " in JSON at position 0
+error : May-25-2022 19:37:10 : Unexpected token " in JSON at position 0
+error : May-25-2022 19:38:24 : Unexpected token " in JSON at position 0
+error : May-25-2022 19:38:35 : Unexpected token " in JSON at position 0
+error : May-25-2022 19:52:29 : Unexpected token " in JSON at position 0
+error : May-25-2022 20:03:39 : Unexpected token " in JSON at position 0
+error : May-25-2022 20:03:59 : Unexpected token " in JSON at position 0
+error : May-25-2022 20:15:16 : undefined
+error : May-25-2022 21:43:53 : Unexpected token " in JSON at position 0
+error : May-26-2022 00:44:07 : Unexpected token " in JSON at position 0
+error : May-30-2022 13:49:05 : undefined
+error : May-30-2022 13:49:05 : undefined
+error : May-30-2022 13:49:58 : undefined
+error : May-30-2022 13:50:58 : undefined
+error : May-30-2022 13:52:25 : user validation failed: password: Path `password` (`sssssss`) is shorter than the minimum allowed length (8).
+error : May-30-2022 13:52:39 : user validation failed: password: Path `password` (`sssssss`) is shorter than the minimum allowed length (8).
+error : May-30-2022 13:54:20 : undefined
+error : May-30-2022 13:55:30 : Unexpected token " in JSON at position 0
+error : May-30-2022 13:56:32 : Unexpected token " in JSON at position 0
+error : May-30-2022 13:56:41 : Unexpected token " in JSON at position 0
+error : May-30-2022 13:57:55 : Unexpected token " in JSON at position 0
+error : May-30-2022 13:58:11 : Unexpected token " in JSON at position 0
+error : May-30-2022 13:58:13 : Unexpected token " in JSON at position 0
+error : May-30-2022 23:18:49 : Unexpected token " in JSON at position 0
+error : May-31-2022 21:18:06 : Unexpected token " in JSON at position 0
+error : May-31-2022 21:18:08 : Unexpected token " in JSON at position 0
+error : Jun-01-2022 11:15:07 : Unexpected token " in JSON at position 0
+error : Jun-01-2022 11:38:48 : Unexpected token " in JSON at position 0
+error : Jun-09-2022 01:10:30 : user validation failed: password: Path `password` (`aaaaaaa`) is shorter than the minimum allowed length (8).
+error : Jun-11-2022 23:47:06 : Unexpected token " in JSON at position 0
+error : Jun-11-2022 23:47:06 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 11:11:29 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 11:37:24 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 11:40:49 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 11:41:50 : undefined
+error : Jun-12-2022 11:43:27 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 16:21:38 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 16:23:11 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 16:27:01 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 16:27:23 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 16:27:38 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 16:38:43 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 16:58:23 : Unexpected token " in JSON at position 0
+error : Jun-12-2022 16:59:01 : Unexpected token " in JSON at position 0
+error : Jun-14-2022 14:13:38 : Unexpected token " in JSON at position 0
+error : Jun-14-2022 14:13:52 : Unexpected token " in JSON at position 0
+error : Jun-14-2022 14:13:54 : Unexpected token " in JSON at position 0
+error : Jun-14-2022 22:01:08 : Unexpected token " in JSON at position 0
+error : Jun-14-2022 22:12:59 : Unexpected token " in JSON at position 0
+error : Jun-14-2022 22:13:12 : Unexpected token " in JSON at position 0
+error : Jun-14-2022 22:19:10 : Unexpected token " in JSON at position 0
+error : Jun-14-2022 22:43:23 : Unexpected token " in JSON at position 0
+error : Jun-20-2022 12:36:12 : Unexpected token " in JSON at position 0
+error : Jun-20-2022 12:47:29 : Unexpected token " in JSON at position 0
+error : Jun-21-2022 19:51:47 : Unexpected end of JSON input
+error : Jun-21-2022 20:08:14 : user validation failed: email: you must insert!, required
+error : Jun-21-2022 20:08:30 : E11000 duplicate key error collection: 212410773_Sagit-db.users index: email_1 dup key: { email: "kk@kk.kk" }
+error : Jun-21-2022 20:09:20 : user validation failed: email: you must insert!, required
+error : Jun-21-2022 20:09:59 : Unexpected token " in JSON at position 0
+error : Jun-23-2022 21:16:48 : Unexpected token " in JSON at position 0
+error : Jun-23-2022 21:22:24 : Unexpected token " in JSON at position 0
+error : Jul-13-2022 21:26:03 : Unexpected token " in JSON at position 0
+error : Jul-13-2022 21:26:34 : Unexpected token " in JSON at position 0
+error : Jul-13-2022 21:32:03 : Unexpected token " in JSON at position 0
+error : Jul-13-2022 21:58:46 : Unexpected token " in JSON at position 0
+error : Jul-13-2022 22:03:22 : Unexpected token " in JSON at position 0
+error : Jul-18-2022 14:15:08 : Unexpected token " in JSON at position 0
+error : Jul-18-2022 22:54:03 : Unexpected token " in JSON at position 0
+error : Jul-18-2022 22:54:11 : Unexpected token " in JSON at position 0
+error : Jul-18-2022 23:43:52 : Unexpected token " in JSON at position 0
+error : Jul-18-2022 23:51:47 : Unexpected token " in JSON at position 0
+error : Jul-18-2022 23:51:55 : Unexpected token " in JSON at position 0
+error : Jul-19-2022 10:58:11 : currentcategory is not defined
+error : Jul-19-2022 10:58:39 : currentcategory is not defined
+error : Jul-19-2022 10:58:54 : currentcategory is not defined
+error : Jul-19-2022 10:59:14 : currentcategory is not defined
+error : Jul-19-2022 11:20:36 : Unexpected token " in JSON at position 0
+error : Jul-19-2022 11:47:40 : stageNumber is not defined
+error : Jul-19-2022 11:48:12 : stage validation failed: name: Cast to Number failed for value "exercise" (type string) at path "name"
+error : Jul-19-2022 11:48:42 : Unexpected token } in JSON at position 137
+error : Jul-19-2022 11:48:52 : stage validation failed: name: Cast to Number failed for value "exercise" (type string) at path "name"
+error : Jul-19-2022 11:49:21 : stage validation failed: name: Cast to Number failed for value "exercise" (type string) at path "name"
+error : Jul-19-2022 18:37:52 : Unexpected token " in JSON at position 0
+error : Jul-19-2022 18:59:21 : stageModel is not defined
+error : Jul-19-2022 19:03:53 : Unexpected token " in JSON at position 0
+error : Jul-19-2022 19:47:31 : user validation failed: email: you must insert!, required
