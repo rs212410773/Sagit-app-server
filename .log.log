@@ -106,3 +106,25 @@ error : Jul-19-2022 18:37:52 : Unexpected token " in JSON at position 0
 error : Jul-19-2022 18:59:21 : stageModel is not defined
 error : Jul-19-2022 19:03:53 : Unexpected token " in JSON at position 0
 error : Jul-19-2022 19:47:31 : user validation failed: email: you must insert!, required
+error : Jul-20-2022 20:57:40 : Unexpected token " in JSON at position 0
+error : Jul-20-2022 23:32:43 : categoryName is not defined
+error : Jul-20-2022 23:33:25 : categoryName is not defined
+error : Jul-20-2022 23:34:41 : categoryName is not defined
+error : Jul-21-2022 10:53:03 : connection 5 to 127.0.0.1:27017 timed out
+error : Jul-21-2022 11:05:31 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:05:57 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:06:16 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:07:17 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:07:51 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:09:03 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:10:14 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:10:17 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:10:33 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:10:50 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:13:30 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:14:29 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:14:39 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:19:39 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:20:33 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:50:36 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 11:56:43 : Unexpected token " in JSON at position 0

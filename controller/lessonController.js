@@ -40,17 +40,14 @@ module.exports.getlessonCourses = async function (req, res, next) {
 
 
 module.exports.addLesson = async function (req, res, next) {
-
     if (req.body) {
         try {
-            const { name, lessonNumber, desc, stageId } = req.body;
+            const { name, lessonNumber, stageId } = req.body;
             const data = new lessonModel({
                 name,
                 lessonNumber,
-                desc,
                 stageId
             })
-
 
             const insertedLesson = await data.save();
             res.send(insertedLesson);
@@ -65,11 +62,11 @@ module.exports.updateLesson = async function (req, res, next) {
     if (req.body) {
         const id = req.params.id
         try {
-            const { name, lessonNumber, desc, stageId } = req.body;
+            const { name, lessonNumber, stageId } = req.body;
             const data = {
                 name,
                 lessonNumber,
-                desc,
+           
                 stageId
             }
             let updateLesson = await lessonModel.findByIdAndUpdate(id, data, {

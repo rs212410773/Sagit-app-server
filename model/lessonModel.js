@@ -10,9 +10,9 @@ const lessonSchema = new mongoose.Schema({
     lessonNumber:{
         type:Number
     },
-    desc:{
-        type: String,
-    },
+    // desc:{
+    //     type: String,
+    // },
     stageId:{
         type: String  
         // type: mongoose.objectId,

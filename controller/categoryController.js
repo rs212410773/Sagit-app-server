@@ -26,6 +26,8 @@ module.exports.getCategory = async function (req, res, next) {
 module.exports.addCategory = async function (req, res, next) {
     if (req.body) {
         try {
+            // const categoryName={categoryName:categoryName}
+
             const {categoryName } = req.body;
             const data = new categoryModel({
                 categoryName
