@@ -128,3 +128,7 @@ error : Jul-21-2022 11:19:39 : Unexpected token " in JSON at position 0
 error : Jul-21-2022 11:20:33 : Unexpected token " in JSON at position 0
 error : Jul-21-2022 11:50:36 : Unexpected token " in JSON at position 0
 error : Jul-21-2022 11:56:43 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 13:35:08 : Unexpected token " in JSON at position 0
+error : Jul-21-2022 21:07:18 : Unexpected token " in JSON at position 0
+error : Jul-24-2022 13:30:01 : lesson validation failed: lessonNumber: Cast to Number failed for value "f" (type string) at path "lessonNumber"
+error : Jul-26-2022 20:33:43 : lesson validation failed: lessonNumber: Cast to Number failed for value "v" (type string) at path "lessonNumber"
